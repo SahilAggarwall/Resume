@@ -90,6 +90,15 @@
     .content{
         margin-left: 12rem;
     }
+    .projects-div{
+        display: flex;
+        flex-direction: column;
+        justify-content:space-around;
+        align-items: center;
+    }
+    .projects-div p{
+        margin-left: 50px;
+    }
 }
 @media screen and (max-width : 800px){
     .inner{
