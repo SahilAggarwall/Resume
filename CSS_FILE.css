@@ -360,6 +360,14 @@ header{
     width: auto;
     
 }
+.projects-div{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    align-items: center;
+    gap: 80px;
+    margin-right: 50px;
+}
 .details{
     padding: 0.5rem 0 0.5rem 1rem;
     background-color: white;
